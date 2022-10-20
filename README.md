@@ -8,3 +8,12 @@ https://github.com/jacobwolter2000/Math242/blob/main/Copy_of_The_Ski_Hill_Transi
 https://github.com/jacobwolter2000/Math242/blob/main/Math_242_solve_systems_using_computation_and_rref.ipynb
 
 # Skihill Problems
+https://github.com/jacobwolter2000/Math242/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+# Take Home Test
+
+
+# Secret Number
+
+
+#NFL Team Rankings
