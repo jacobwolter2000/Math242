@@ -16,4 +16,5 @@ https://github.com/jacobwolter2000/Math242/blob/main/Take_Home_Test_1_Code.ipynb
 # Secret Number
 https://github.com/jacobwolter2000/Math242/blob/main/Secret_Number_Codes.ipynb
 
-#NFL Team Rankings
+# NFL Team Rankings
+https://github.com/jacobwolter2000/Math242/blob/main/NFL_Sports_Teams_Rankings.ipynb
