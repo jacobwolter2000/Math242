@@ -15,3 +15,5 @@ https://github.com/jacobwolter2000/Math242/blob/main/Secret_Number_Codes.ipynb
 
 # NFL Team Rankings
 https://github.com/jacobwolter2000/Math242/blob/main/NFL_Sports_Teams_Rankings.ipynb
+
+#Exponential Gram-Schmidt Problems
