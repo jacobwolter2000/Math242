@@ -21,3 +21,4 @@ https://github.com/jacobwolter2000/Math242/blob/main/Gram_Schmidt_from_Scratch.i
 https://github.com/jacobwolter2000/Math242/blob/main/Jacob_Copy_of_Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
 
 # Cos/sin Homework Problems
+https://github.com/jacobwolter2000/Math242/blob/main/Gram_Schmidt_cos_sin_functions.ipynb
