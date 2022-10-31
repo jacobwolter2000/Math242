@@ -18,3 +18,6 @@ https://github.com/jacobwolter2000/Math242/blob/main/NFL_Sports_Teams_Rankings.i
 
 # Exponential Gram-Schmidt Problems
 https://github.com/jacobwolter2000/Math242/blob/main/Gram_Schmidt_from_Scratch.ipynb
+https://github.com/jacobwolter2000/Math242/blob/main/Jacob_Copy_of_Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
+
+# Cos/sin Homework Problems
